@@ -8,4 +8,4 @@ I have user google pixel 2 as the Virtual Device for running this app. I recomme
 3. Run the app using google pixel 2.
 
 ## Compressed xml format
-A good explanation about the compressed xml is found here [here](https://justanapplication.wordpress.com/category/android/android-binary-xml/)
+A good explanation about the compressed xml is found [here](https://justanapplication.wordpress.com/category/android/android-binary-xml/)
